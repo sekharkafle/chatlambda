@@ -67,7 +67,7 @@ After we configure API gateway the code is all set to be consumed by UI applicat
 
 ![Chat UI](/assets/chat-screen.PNG)
 
-Fron end UI code is available here:  [https://github.com/sekharkafle/chatui](https://github.com/sekharkafle/chatui)
+Front end UI code is available here:  [https://github.com/sekharkafle/chatui](https://github.com/sekharkafle/chatui)
 
 For complete details on the application, please check here: [http://kafles.com/2024/04/13/practical-llm1/](http://kafles.com/2024/04/13/practical-llm1/)
 
