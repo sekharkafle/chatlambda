@@ -65,7 +65,7 @@ const bedrock = new BedrockRuntimeClient({
 After we configure API gateway the code is all set to be consumed by UI application.
 
 
-![Chat UI](/assets/chat-screen.PNG)
+![Chat UI](chat-screen.png)
 
 Front end UI code is available here:  [https://github.com/sekharkafle/chatui](https://github.com/sekharkafle/chatui)
 
